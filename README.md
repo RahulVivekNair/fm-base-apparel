@@ -7,7 +7,7 @@ This is a solution to the [Base Apparel coming soon page challenge on Frontend M
 
 ### Links
 
-- Live Site URL: fm-base-apparel-761bb1bkl-rahulviveknair.vercel.app
+- Live Site URL: https://fm-base-apparel-761bb1bkl-rahulviveknair.vercel.app/
 
 ### Built with
 
