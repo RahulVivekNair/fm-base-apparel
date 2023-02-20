@@ -99,7 +99,7 @@
 
 <style>
   main {
-    background-image: url("/bg-pattern-desktop.svg"),
+    background-image: url("images/bg-pattern-desktop.svg"),
       linear-gradient(135deg, #fff, #fff5f5);
   }
 </style>
