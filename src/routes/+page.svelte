@@ -39,7 +39,7 @@
     <div
       class="pb-20 text-center lg:pb-0 font-josefin bg-bagcol lg:bg-transparent lg:text-left"
     >
-      <h2 class="text-4xl lg:text-6xl tracking-[12px] uppercase mt-14 mb-4">
+      <h2 class="text-4xl lg:text-6xl tracking-[12px] uppercase pt-14 mb-4">
         <span class="block font-thin text-desRed">We're</span>
         <span class="font-semibold text-darkRed">coming<br />soon</span>
       </h2>
@@ -96,3 +96,10 @@
 
   <img class="hidden h-screen lg:block" src="images/hero-desktop.jpg" alt="" />
 </main>
+
+<style>
+  main {
+    background-image: url(./images/bg-pattern-desktop.svg),
+      linear-gradient(135deg, #fff, #fff5f5);
+  }
+</style>
